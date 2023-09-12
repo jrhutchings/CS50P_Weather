@@ -1,7 +1,7 @@
 # Project: Get the weather forecast for a given ZIP code
 # Video Demo:  https://youtu.be/ZckiQG9NoTI
 # Description: This program gets the weather forecast for a given ZIP code. 
-               The program uses the NWS API to get the forecast.
+               
 
 Input:
 Input is in the form of a valid zip code. The user enters a ZIP code to get the forecast for. 
